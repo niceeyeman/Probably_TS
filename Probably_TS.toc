@@ -1,0 +1,10 @@
+## Interface: 50400
+## Title: Probably - TS
+## Author: NiceEyeMan
+## Notes: ProbablyEngine Custom Beast Mastery Hunter
+## Dependencies: Probably
+
+#Libs
+libs\candebuff.lua -- Copy the libs folder to your rotations folder and add this line to your .toc
+
+rotation.lua
